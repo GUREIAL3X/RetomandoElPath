@@ -1,1 +1,2 @@
 archivo para probar git
+esto deberia ir para la rama B
